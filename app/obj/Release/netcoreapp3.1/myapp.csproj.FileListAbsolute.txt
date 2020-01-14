@@ -1,0 +1,11 @@
+C:\BSK\github-edsonbryan\net-core-docker\app\bin\Release\netcoreapp3.1\myapp.exe
+C:\BSK\github-edsonbryan\net-core-docker\app\bin\Release\netcoreapp3.1\myapp.deps.json
+C:\BSK\github-edsonbryan\net-core-docker\app\bin\Release\netcoreapp3.1\myapp.runtimeconfig.json
+C:\BSK\github-edsonbryan\net-core-docker\app\bin\Release\netcoreapp3.1\myapp.runtimeconfig.dev.json
+C:\BSK\github-edsonbryan\net-core-docker\app\bin\Release\netcoreapp3.1\myapp.dll
+C:\BSK\github-edsonbryan\net-core-docker\app\bin\Release\netcoreapp3.1\myapp.pdb
+C:\BSK\github-edsonbryan\net-core-docker\app\obj\Release\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+C:\BSK\github-edsonbryan\net-core-docker\app\obj\Release\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+C:\BSK\github-edsonbryan\net-core-docker\app\obj\Release\netcoreapp3.1\myapp.AssemblyInfo.cs
+C:\BSK\github-edsonbryan\net-core-docker\app\obj\Release\netcoreapp3.1\myapp.dll
+C:\BSK\github-edsonbryan\net-core-docker\app\obj\Release\netcoreapp3.1\myapp.pdb
